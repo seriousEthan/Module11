@@ -1,0 +1,33 @@
+Date           Location       				Result                        
+03/11/20       Nashville, Tenn. - Bridgestone Arena     Arkansas 86, Vanderbilt 73 Box score      
+03/07/20       College Station, Texas - Reed Arena      Texas A&M 77, Arkansas 69 Box score      
+03/04/20       Fayetteville, Ark. - Bud Walton Arna     Arkansas 99, LSU 90 Box score      
+02/29/20       Athens, Ga. - Stegeman Coliseum          Georgia 99, Arkansas 89 Box score      
+02/26/20       Fayetteville, Ark. - Bud Walton Arena    Arkansas 86, Tennessee 69 Box score      
+02/22/20       Fayetteville, Ark. - Bud Walton Arena    Arkansas 78, Missouri 68 Box score      
+02/18/20       Gainesville, Fla. - Exactech Arena       Florida 73, Arkansas 59 Box score      
+02/15/20       Fayetteville, Ark. - Bud Walton Arena    Mississippi St. 78, Arkansas 77 Box score      
+02/11/20       Knoxville, Tenn - Thompson-Boling Arena  Tennessee 82, Arkansas 61 Box score      
+02/08/20       Columbia, Mo. - Mizzou Arena             Missouri 83, Arkansas 79 (OT) Box score      
+02/04/20       Fayetteville, Ark. - Bud Walton Arena    Auburn 79, Arkansas 76 (OT) Box score      
+02/01/20       Tuscaloosa, Ala. - Coleman Coliseum      Arkansas 82, Alabama 78 Box score      
+01/29/20       Fayetteville, Ark. - Bud Walton Arena    South Carolina 79, Arkansas 77 Box score      
+01/25/20       Fayetteville, Ark. - Bud Walton Arena    Arkansas 78, TCU 67 Box score      
+01/22/20       Starkville, Miss. - Humphrey Coliseum    Mississippi St. 77, Arkansas 70 Box score      
+01/18/20       Fayetteville, Ark. - Bud Walton Arena    Kentucky 73, Arkansas 66 Box score      
+01/15/20       Fayetteville, Ark. - Bud Walton Arena    Arkansas 75, Vanderbilt 55 Box score      
+01/11/20       Oxford, Miss. - The Pavilion             Arkansas 76, Ole Miss 72 Box score      
+01/08/20       Baton Rouge, La. - Maravich Asseml       LSU 79, Arkansas 77 Box score      
+01/04/20       Fayetteville, Ark. - Bud Walton Arena    Arkansas 69, Texas A&M 59 Box score      
+12/29/19       Bloomington, Ind. - Assembly Hall        Arkansas 71, Indiana 64 Box score      
+12/21/19       N. Little Rock, AR - Simmons Bank Arena  Arkansas 72, Valparaiso 68 Box score      
+12/14/19       Fayetteville, Ark. - Bud Walton Arena    Arkansas 98, Tulsa 79 Box score      
+12/07/19       Bowling Green, Ky. - E.A. Diddle Arena   Western Kentucky 86, Arkansas 79 (OT) Box score      
+12/03/19       Fayetteville, Ark. - Bud Walton Arena    Arkansas 69, Austin Peay 61 Box score      
+11/30/19       Fayetteville, Ark. - Bud Walton Arena    Arkansas 66, Northern Kentucky 60 Box score      
+11/25/19       Atlanta, Ga. - McCamish Pavilion         Arkansas 62, Georgia Tech 61 (OT) Box score      
+11/22/19       Fayetteville, Ark. - Bud Walton Arena    Arkansas 77, South Dakota 56 Box score      
+11/19/19       Fayetteville, Ark. - Bud Walton Arena    Arkansas 82, Texas Southern 51 Box score      
+11/16/19       Fayetteville, Ark. - Bud Walton Arena    Arkansas 64, Montana 46 Box score      
+11/12/19       Fayetteville, Ark - Bud Walton Arena     Arkansas 66, North Texas 43 Box score      
+11/05/19       Fayetteville, Ark. - Bud Walton Arena    Arkansas 91, Rice 43 Box score      
